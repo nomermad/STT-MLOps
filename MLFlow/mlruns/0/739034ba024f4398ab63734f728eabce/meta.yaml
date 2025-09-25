@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/739034ba024f4398ab63734f728eabce/artifacts
+end_time: 1758811405150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 739034ba024f4398ab63734f728eabce
+run_name: suave-dolphin-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758811403623
+status: 4
+tags: []
+user_id: madisonnomer

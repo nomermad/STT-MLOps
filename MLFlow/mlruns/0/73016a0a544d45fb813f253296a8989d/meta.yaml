@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/73016a0a544d45fb813f253296a8989d/artifacts
+end_time: 1758811300934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73016a0a544d45fb813f253296a8989d
+run_name: rumbling-wolf-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758811300928
+status: 4
+tags: []
+user_id: madisonnomer
