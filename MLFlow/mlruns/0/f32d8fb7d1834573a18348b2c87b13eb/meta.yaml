@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f32d8fb7d1834573a18348b2c87b13eb/artifacts
+end_time: 1758904348922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f32d8fb7d1834573a18348b2c87b13eb
+run_name: model_3_x1_x2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758904347548
+status: 3
+tags: []
+user_id: madisonnomer
